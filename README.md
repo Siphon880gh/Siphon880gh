@@ -1,7 +1,7 @@
 # 🙋🏻‍♂️ Weng Fei Fung (Just call me Weng)
-
-
-<img src="https://wengindustry.com/me2/assets/weng-industry-about-headshot-opaque.jpg" style="width:100px;" alt="Photo of me"/>
+<!-- 
+  <img src="https://wengindustry.com/me2/assets/weng-industry-about-headshot-opaque.jpg" style="width:100px;" alt="Photo of me"/>
+-->
 
 - 🪪 I am a versatile programmer of old and modern stacks. I Freelance. I help Coding Bootcamp students.
 - 💬 Have an app idea? 📫 How to reach me: [Contact Form](https://www.wengindustry.com/me/contacts)<br>

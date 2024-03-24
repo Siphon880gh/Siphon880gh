@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ Weng Fei Fung (Just call me Weng)
+# 🙋🏻‍♂️ Weng (Full name - Weng Fei Fung)
 <!-- 
   <img src="https://wengindustry.com/me2/assets/weng-industry-about-headshot-opaque.jpg" style="width:100px;" alt="Photo of me"/>
 -->

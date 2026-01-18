@@ -4,7 +4,7 @@ Full name - Weng Fei Fung
   <img src="https://wengindustry.com/me2/assets/weng-industry-about-headshot-opaque.jpg" style="width:100px;" alt="Photo of me"/>
 -->
 
-- 🪪 I am a versatile programmer of old and modern stacks. I Freelance. I help Coding Bootcamp students.
+- 🪪 I am a versatile programmer of old and modern stacks. I freelanced creating full stack apps and SEO automations, tutored Coding Bootcamp students, and prompt engineered vibe coding processes (See my repos!).
 - 💬 Have an app idea? 📫 How to reach me: [Contact Form](https://www.wengindustry.com/me/contacts)<br>
 - 🌱 I’m currently exploring AI Applications<br>
 - ⚡ Fun fact: I get a lot of random ideas at night and I jot them down. Who wants to fund my business ideas?

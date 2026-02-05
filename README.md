@@ -10,7 +10,7 @@ Full name - Weng Fei Fung
 - ⚡ Fun fact: I get a lot of random ideas at night and I jot them down. Who wants to fund my business ideas?
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weng-fung/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@WengTeachesCode) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weng-fung/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@WengTeachesCode) 
 
 <b>Watch my tutorials!</b><br/>
 <a href="https://www.youtube.com/@WengTeachesCode" target="_blank"><img src="assets/youtube-preview-v2.png" style="width:250px; border:1px solid black;"/></a>
